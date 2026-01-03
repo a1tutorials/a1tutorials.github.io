@@ -10,7 +10,7 @@ class CustomNavbar extends HTMLElement {
               <a href="#home" class="text-gray-700 hover:text-blue-600 font-medium">Home</a>
               <a href="#classes" class="text-gray-700 hover:text-blue-600 font-medium">Classes</a>
               <a href="#about" class="text-gray-700 hover:text-blue-600 font-medium">About</a>
-              <a href="tel:+919876543210" class="bg-green-600 text-white px-4 py-2 rounded-lg">
+              <a href="tel:+917607063167" class="bg-green-600 text-white px-4 py-2 rounded-lg">
                 Call Us
               </a>
             </div>
