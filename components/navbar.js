@@ -24,7 +24,7 @@ class CustomNavbar extends HTMLElement {
             <a href="#home" class="block py-2">Home</a>
             <a href="#classes" class="block py-2">Classes</a>
             <a href="#about" class="block py-2">About</a>
-            <a href="tel:+919876543210" class="block py-2 font-bold">Call Us</a>
+            <a href="tel:+917607063167" class="block py-2 font-bold">Call Us</a>
           </div>
         </div>
       </nav>
